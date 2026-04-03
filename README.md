@@ -2,7 +2,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-The most common OpenSSL commands in one place — generate keys, create certificates, decode, convert, troubleshoot, and test SSL/TLS. Bookmark this and never Google an OpenSSL command again.
+The most common [OpenSSL](https://openssl.org) commands in one place — generate keys, create certificates, decode, convert, troubleshoot, and test SSL/TLS. Bookmark this and never Google an OpenSSL command again.
 
 > **Want to skip the command line?** [getaCert.com](https://getacert.com) does all of this from your browser — no installs, no flags to memorize. Free since 2005.
 
@@ -1002,6 +1002,12 @@ Unlimited certificate generation, saved cert history, REST API access, and up to
 ## Contributing
 
 Found an error? Know a useful OpenSSL command that's missing? PRs welcome.
+
+## Further Reading
+
+- [OpenSSL Official Documentation](https://openssl.org/docs/) — full reference for all commands and options
+- [OpenSSL Man Pages](https://openssl.org/docs/manpages.html) — detailed man pages by version
+- [OpenSSL Wiki](https://wiki.openssl.org/) — community guides and examples
 
 ## License
 
