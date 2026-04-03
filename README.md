@@ -1,4 +1,4 @@
-# OpenSSL Cheat Sheet
+# OpenSSL Cookbook
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -934,8 +934,8 @@ Things that trip everyone up:
 This repo includes ready-to-use bash scripts in the [`scripts/`](scripts/) directory. Clone the repo and run them directly:
 
 ```bash
-git clone https://github.com/getaCert/openssl-cheatsheet.git
-cd openssl-cheatsheet
+git clone https://github.com/getaCert/openssl.git
+cd openssl
 ```
 
 | Script | What It Does |
@@ -974,7 +974,7 @@ All scripts support RSA 2048/4096, ECDSA P-256/P-384, and Ed25519. Output goes t
 
 ## About
 
-This cheat sheet is maintained by [getaCert.com](https://getacert.com) — free SSL certificate tools since 2005.
+This cookbook is maintained by [getaCert.com](https://getacert.com) — free SSL certificate tools since 2005.
 
 **No installs. No command line. Just your certificate.**
 
@@ -1011,4 +1011,4 @@ Found an error? Know a useful OpenSSL command that's missing? PRs welcome.
 
 ## License
 
-This cheat sheet is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share it, fork it, print it out and tape it to your monitor.
+This cookbook is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Share it, fork it, print it out and tape it to your monitor.
